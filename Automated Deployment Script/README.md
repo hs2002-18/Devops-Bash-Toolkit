@@ -41,13 +41,13 @@ This ensures a consistent and reliable deployment workflow with minimal manual e
 1. Make the script executable:
 
    ```bash
-   chmod +x deploy.sh
+   chmod +x script.sh
    ```
 
 2. Run the script:
 
    ```bash
-   ./deploy.sh
+   ./script.sh
    ```
 
 ---
