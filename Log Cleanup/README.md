@@ -46,7 +46,7 @@ The script performs the following:
    chmod +x script.sh
    ```
 
-3. Run the script:
+2. Run the script:
 
    ```bash
    ./script.sh
